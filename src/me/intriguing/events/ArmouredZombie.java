@@ -1,6 +1,6 @@
 package me.intriguing.events;
 
-import me.intriguing.util.Util.NumUtil;
+import me.intriguing.util.NumUtil;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.entity.LivingEntity;

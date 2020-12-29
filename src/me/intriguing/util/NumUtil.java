@@ -1,4 +1,4 @@
-package me.intriguing.util.Util;
+package me.intriguing.util;
 
 import java.util.Random;
 
